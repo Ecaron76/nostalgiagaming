@@ -4,10 +4,12 @@
 [Par Florian Meunier]
 
 
----- Version 2.0 -----
+----- Version 2.0 -----
 >>>>> Création du plugin personnalisé 
 [Par Florian Meunier]
 
-
+----- Version 3.0 -----
+>>>>> Déploiement du site sur l'hébergeur IONOS
+[Par Florian Meunier]
 
 
